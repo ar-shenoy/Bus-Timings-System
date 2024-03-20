@@ -13,8 +13,6 @@ def get_bus_timings(question, data):
             return item["answer"]
     return "Sorry, I don't have information about that."
 
-
-
 def main():
     file_path = "bus.json"  # Path to your JSON file
     bus_data = load_bus_data('bus.json')
