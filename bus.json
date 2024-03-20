@@ -1,0 +1,164 @@
+{
+    "questions": [
+      {
+        "question": "hi",
+        "keywords": ["greeting", "hello", "hi"],
+        "answer": "Hello! How can I assist you today?"
+      },
+      {
+        "question": "how are you",
+        "keywords": ["how", "are", "you"],
+        "answer": "I'm just a bot, but thank you for asking! How can I help you?"
+      },
+      {
+        "question": "how can i help you",
+        "keywords": ["help"],
+        "answer": "You can ask me about bus timings. I'm here to provide information and assistance!"
+      },
+      {
+        "question": "bus timings for Mysuru to Bengaluru",
+        "keywords": ["bus", "timings", "Mysuru", "Bengaluru"],
+        "answer": "The bus timings for Mysuru to Bengaluru route are 7:00 AM, 9:30 AM, 12:00 PM, 2:30 PM, and 5:00 PM."
+      },
+      {
+        "question": "bus timings for Mangaluru to Hubli",
+        "keywords": ["bus", "timings", "Mangaluru", "Hubli"],
+        "answer": "The bus timings for Mangaluru to Hubli route are 8:15 AM, 10:45 AM, 1:15 PM, 3:45 PM, and 6:15 PM."
+      },
+      {
+        "question": "bus timings for Belagavi to Shivamogga",
+        "keywords": ["bus", "timings", "Belagavi", "Shivamogga"],
+        "answer": "The bus timings for Belagavi to Shivamogga route are 7:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, and 5:30 PM."
+      },
+      {
+        "question": "bus timings for Hassan to Udupi",
+        "keywords": ["bus", "timings", "Hassan", "Udupi"],
+        "answer": "The bus timings for Hassan to Udupi route are 7:45 AM, 10:15 AM, 12:45 PM, 3:15 PM, and 5:45 PM."
+      },
+      {
+        "question": "bus timings for Hubli to Bidar",
+        "keywords": ["bus", "timings", "Hubli", "Bidar"],
+        "answer": "The bus timings for Hubli to Bidar route are 8:00 AM, 10:30 AM, 1:00 PM, 3:30 PM, and 6:00 PM."
+      },
+      {
+        "question": "bus timings for Bengaluru to Chennai",
+        "keywords": ["bus", "timings", "Bengaluru", "Chennai"],
+        "answer": "The bus timings for Bengaluru to Chennai route are 6:00 AM, 8:30 AM, 11:00 AM, 1:30 PM, and 4:00 PM."
+      },
+      {
+        "question": "bus timings for Shivamogga to Mangaluru",
+        "keywords": ["bus", "timings", "Shivamogga", "Mangaluru"],
+        "answer": "The bus timings for Shivamogga to Mangaluru route are 7:15 AM, 9:45 AM, 12:15 PM, 2:45 PM, and 5:15 PM."
+      },
+      {
+        "question": "bus timings for Udupi to Hassan",
+        "keywords": ["bus", "timings", "Udupi", "Hassan"],
+        "answer": "The bus timings for Udupi to Hassan route are 8:30 AM, 11:00 AM, 1:30 PM, 4:00 PM, and 6:30 PM."
+      },
+      {
+        "question": "bus timings for Chennai to Coimbatore",
+        "keywords": ["bus", "timings", "Chennai", "Coimbatore"],
+        "answer": "The bus timings for Chennai to Coimbatore route are 7:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, and 5:30 PM."
+      },
+      {
+        "question": "bus timings for Coimbatore to Chennai",
+        "keywords": ["bus", "timings", "Coimbatore", "Chennai"],
+        "answer": "The bus timings for Coimbatore to Chennai route are 8:45 AM, 11:15 AM, 1:45 PM, 4:15 PM, and 6:45 PM."
+      },
+      {
+        "question": "bus timings for Bidar to Hubli",
+        "keywords": ["bus", "timings", "Bidar", "Hubli"],
+        "answer": "The bus timings for Bidar to Hubli route are 8:30 AM, 11:00 AM, 1:30 PM, 4:00 PM, and 6:30 PM."
+      },
+      {
+        "question": "bus timings for Bengaluru to Hyderabad",
+        "keywords": ["bus", "timings", "Bengaluru", "Hyderabad"],
+        "answer": "The bus timings for Bengaluru to Hyderabad route are 6:45 AM, 9:15 AM, 11:45 AM, 2:15 PM, and 4:45 PM."
+      },
+     {
+        "question": "bus timings for Hyderabad to Vijayawada",
+        "keywords": ["bus", "timings", "Hyderabad", "Vijayawada"],
+        "answer": "The bus timings for Hyderabad to Vijayawada route are 7:00 AM, 9:30 AM, 12:00 PM, 2:30 PM, and 5:00 PM."
+      },
+      {
+        "question": "bus timings for Vijayawada to Guntur",
+        "keywords": ["bus", "timings", "Vijayawada", "Guntur"],
+        "answer": "The bus timings for Vijayawada to Guntur route are 8:15 AM, 10:45 AM, 1:15 PM, 3:45 PM, and 6:15 PM."
+      },
+      {
+        "question": "bus timings for Guntur to Visakhapatnam",
+        "keywords": ["bus", "timings", "Guntur", "Visakhapatnam"],
+        "answer": "The bus timings for Guntur to Visakhapatnam route are 7:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, and 5:30 PM."
+      },
+      {
+        "question": "bus timings for Visakhapatnam to Tirupati",
+        "keywords": ["bus", "timings", "Visakhapatnam", "Tirupati"],
+        "answer": "The bus timings for Visakhapatnam to Tirupati route are 7:45 AM, 10:15 AM, 12:45 PM, 3:15 PM, and 5:45 PM."
+      },
+      {
+        "question": "bus timings for Tirupati to Nellore",
+        "keywords": ["bus", "timings", "Tirupati", "Nellore"],
+        "answer": "The bus timings for Tirupati to Nellore route are 8:00 AM, 10:30 AM, 1:00 PM, 3:30 PM, and 6:00 PM."
+      },
+      {
+        "question": "bus timings for Nellore to Kurnool",
+        "keywords": ["bus", "timings", "Nellore", "Kurnool"],
+        "answer": "The bus timings for Nellore to Kurnool route are 6:00 AM, 8:30 AM, 11:00 AM, 1:30 PM, and 4:00 PM."
+      },
+      {
+        "question": "bus timings for Kurnool to Anantapur",
+        "keywords": ["bus", "timings", "Kurnool", "Anantapur"],
+        "answer": "The bus timings for Kurnool to Anantapur route are 7:15 AM, 9:45 AM, 12:15 PM, 2:45 PM, and 5:15 PM."
+      },
+      {
+        "question": "bus timings for Anantapur to Kadapa",
+        "keywords": ["bus", "timings", "Anantapur", "Kadapa"],
+        "answer": "The bus timings for Anantapur to Kadapa route are 8:30 AM, 11:00 AM, 1:30 PM, 4:00 PM, and 6:30 PM."
+      },
+      {
+        "question": "bus timings for Kadapa to Chittoor",
+        "keywords": ["bus", "timings", "Kadapa", "Chittoor"],
+        "answer": "The bus timings for Kadapa to Chittoor route are 7:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, and 5:30 PM."
+      },
+      {
+        "question": "bus timings for Chittoor to Bengaluru",
+        "keywords": ["bus", "timings", "Chittoor", "Bengaluru"],
+        "answer": "The bus timings for Chittoor to Bengaluru route are 8:45 AM, 11:15 AM, 1:45 PM, 4:15 PM, and 6:45 PM."
+      },
+      {
+        "question": "bus timings for Bengaluru to Salem",
+        "keywords": ["bus", "timings", "Bengaluru", "Salem"],
+        "answer": "The bus timings for Bengaluru to Salem route are 8:30 AM, 11:00 AM, 1:30 PM, 4:00 PM, and 6:30 PM."
+      },
+      {
+        "question": "bus timings for Salem to Coimbatore",
+        "keywords": ["bus", "timings", "Salem", "Coimbatore"],
+        "answer": "The bus timings for Salem to Coimbatore route are 6:45 AM, 9:15 AM, 11:45 AM, 2:15 PM, and 4:45 PM."
+      },
+      {
+        "question": "bus timings for Coimbatore to Salem",
+        "keywords": ["bus", "timings", "Coimbatore", "Salem"],
+        "answer": "The bus timings for Coimbatore to Salem route are 7:00 AM, 9:30 AM, 12:00 PM, 2:30 PM, and 5:00 PM."
+      },
+      {
+        "question": "bus timings for Salem to Bengaluru",
+        "keywords": ["bus", "timings", "Salem", "Bengaluru"],
+        "answer": "The bus timings for Salem to Bengaluru route are 8:15 AM, 10:45 AM, 1:15 PM, 3:45 PM, and 6:15 PM."
+      },
+      {
+        "question": "bus timings for Bengaluru to Mumbai",
+        "keywords": ["bus", "timings", "Bengaluru", "Mumbai"],
+        "answer": "The bus timings for Bengaluru to Mumbai route are 7:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, and 5:30 PM."
+      },
+      {
+        "question": "bus timings for Mumbai to Pune",
+        "keywords": ["bus", "timings", "Mumbai", "Pune"],
+        "answer": "The bus timings for Mumbai to Pune route are 7:45 AM, 10:15 AM, 12:45 PM, 3:15 PM, and 5:45 PM."
+      },
+      {
+        "question": "bus timings for Pune to Nashik",
+        "keywords": ["bus", "timings", "Pune", "Nashik"],
+        "answer": "The bus timings for Pune to Nashik route are 8:00 AM, 10:30 AM, 1:00 PM, 3:30 PM, and 6:00 PM."
+      }
+    ]
+}
